@@ -26,7 +26,7 @@
     display: inline-block;
     background-image: url("pole.png");
     background-repeat: no-repeat;
-    background-size: 40% ;
+    background-size: 43% ;
     background-blend-mode: screen;
     background-position:center;
     overflow-x: hidden; 
@@ -83,5 +83,5 @@ canvas {
 }
 @keyframes f_hoiting{
     from{background-position-y: 500px;}
-    to{background-position-y: 100px;}
+    to{background-position-y: 113px;}
 }
