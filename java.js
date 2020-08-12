@@ -5,7 +5,7 @@ var hoisting = function(){
     flag.setAttribute("style",'animation:f_hoiting 4s linear')
     back.setAttribute("style",'animation: scal 4s;')
     setTimeout(()=>{
-        flag.setAttribute("style",'background-position-y: 100px')
+        flag.setAttribute("style",'background-position-y: 113px')
         back.setAttribute("style",'background-image: url("back.gif")')
         confetti.setAttribute("style",'animation: sola 3s;')
     },4000)
